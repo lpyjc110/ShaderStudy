@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shader/Chapter6-BlinnPhongUseBuildInFunction.shader">
+    <Files>
+      <File FileName="Assets/Shader/Chapter5-SimpleShader.shader" Line="35" Column="41" />
+      <File FileName="Assets/Shader/Chapter5-FalserColor.shader" Line="3" Column="14" />
+      <File FileName="Assets/Shader/Chapter6-DiffuseVertexLevel.shader" Line="46" Column="33" />
+      <File FileName="Assets/Shader/Chapter6-DiffusePixelLevel.shader" Line="51" Column="1" />
+      <File FileName="Assets/Shader/Chapter6-HalfLambert.shader" Line="43" Column="50" />
+      <File FileName="Assets/Shader/Chapter6-SpecularVertexLevel.shader" Line="41" Column="70" />
+      <File FileName="Assets/Shader/Chapter6-SpecularPixelLevel.shader" Line="69" Column="1" />
+      <File FileName="Assets/Shader/Chapter6-BlinnPhong.shader" Line="71" Column="1" />
+      <File FileName="Assets/Shader/Chapter6-BlinnPhongUseBuildInFunction.shader" Line="4" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
